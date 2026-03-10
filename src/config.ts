@@ -522,7 +522,7 @@ export const statisticsConfig: StatisticsConfig = {
   sectionTitle: "Research Statistics",
   stats: [
     { id: 1, value: "70%", label: "Compression Ratio" },
-    { id: 2, value: "0.97", label: "Similarity Score (SSIM)" },
+    { id: 2, value: "96%", label: "Similarity Score (SSIM)" },
     { id: 3, value: "35 dB", label: "PSNR" },
     { id: 4, value: "52%", label: "Latency Reduction" },
   ],
